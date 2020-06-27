@@ -10,9 +10,7 @@ function GetData() {
     })
   }
 
-  // function Convert2Json(){
-  //   let csvToJson = require('convert-csv-to-json');
-  // }
+  
   
 
 
