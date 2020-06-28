@@ -9,7 +9,7 @@ function App() {
     
     <div className="App">
       <h1>Data</h1>
-     
+      <GetData></GetData>
     </div>
   );
 
